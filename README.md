@@ -1,5 +1,5 @@
 # Technologies used :
-HTML
-CSS
-JavaScript
-Skeleton framework
+* HTML
+* CSS
+* JavaScript
+* Skeleton framework
